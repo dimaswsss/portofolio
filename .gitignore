@@ -1,0 +1,2 @@
+# remove .DS_Store file from GitHub that MAC OS X creates
+.DS_Store
